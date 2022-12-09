@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "siteName": {
-      "value": "GEN-UNIQUE"
+      "value": "GEN-UNIQUE-0104456"
     },
     "administratorLogin": {
       "value": "GEN-UNIQUE-16"
